@@ -1,4 +1,4 @@
-## Hi, I'm Neh
+# Hi, I'm Neh
 - 🔭 I've been working with JavaScript for around 4 years
 - 💬 React.JS, Redux, Material-UI are my go-to frontend tools, but lately I've been getting into Next.JS
 - 📫 I've build several APIs with Node.JS as well as Java Spring Boot, and set up CI/CD pipelines with AWS integrations and deployment
