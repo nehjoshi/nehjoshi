@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi, I'm Neh
+- 🔭 I've been working with JavaScript for around 4 years
+- 💬 React.JS, Redux, Material-UI are my go-to frontend tools, but lately I've been getting into Next.JS
+- 📫 I've build several APIs with Node.JS as well as Java Spring Boot, and set up CI/CD pipelines with AWS integrations and deployment
+- ⚡In the past, I've held leadership positions as a Lead Software Engineer (@BoomerRoomers LLC) and Development Manager (@OWASP)
 <!--
 **nehjoshi/nehjoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
