@@ -1,16 +1,12 @@
 # Hi, I'm Neh
-- 🔭 I've been working with JavaScript for around 4 years
-- 💬 React.JS, Redux, Material-UI are my go-to frontend tools, but lately I've been getting into Next.JS
-- 📫 I've build several APIs with Node.JS as well as Java Spring Boot, and set up CI/CD pipelines with AWS integrations and deployment
+- 🔭 I've been working with JavaScript and Typescript for around 5 years
+- 💬 React.JS, Redux, Next.JS are my go-to frontend tools, and I focus on creating performant and accessible components
+- 📫 I am experienced in FastAPI, Flask, and Spring Boot for backend development, and lately I've been getting into Golang
 - ⚡In the past, I've held leadership positions as a Lead Software Engineer (@BoomerRoomers LLC) and Development Manager (@OWASP)
 
-The first piece of JavaScript code I ever typed was in 2020 in the midst of COVID-19, when my university shut down for an indefinite period. Since then, I've never looked back. Over the years, I've seen how React has evolved; from class-based components (and the infamous componentDidMount() hook) to functions. I've learned TypeScript (which I hated, until I realized just how useful it is in a production setting), and backend development with Node.JS, as well as Spring Boot. 
+The first piece of JavaScript code I ever typed was in 2020 in the midst of COVID-19, when my university shut down for an indefinite period. Since then, I've never looked back. Over the years, I've seen how React has evolved; from class-based components to functions, and how TypeScript provided an essential (and nowadays, much-needed) type layer for working on complex systems.
 
-You can't call yourself a Software Engineer without knowledge of the cloud. Backed by fundamental academic knowledge on how cloud and distributed systems work, I've been fortunate enough to apply some of this information to my past internships and jobs. 
-
-And the journey never ends.
-
-This is just the beginning of a journey filled with endless learning and discovery, and I can’t wait to see what the future holds! ✨
+As a software engineer working on Canonical's MAAS (Metal-as-a-service), I am exposed to a wide variety of systems-level and infrastructure-level concepts such as provisioning workflows, PXE booting, DHCP/TFTP and bare-metal networking.
 
 
 <!--
