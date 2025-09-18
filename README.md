@@ -2,7 +2,6 @@
 - 🔭 I've been working with JavaScript and Typescript for around 5 years
 - 💬 React.JS, Redux, Next.JS are my go-to frontend tools, and I focus on creating performant and accessible components
 - 📫 I am experienced in FastAPI, Flask, and Spring Boot for backend development, and lately I've been getting into Golang
-- ⚡In the past, I've held leadership positions as a Lead Software Engineer (@BoomerRoomers LLC) and Development Manager (@OWASP)
 
 The first piece of JavaScript code I ever typed was in 2020 in the midst of COVID-19, when my university shut down for an indefinite period. Since then, I've never looked back. Over the years, I've seen how React has evolved; from class-based components to functions, and how TypeScript provided an essential (and nowadays, much-needed) type layer for working on complex systems.
 
