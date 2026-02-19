@@ -1,9 +1,9 @@
 # Hi, I'm Neh
 - 🔭 I've been working with JavaScript and Typescript for around 5 years
-- 💬 React.JS, Redux, Next.JS are my go-to frontend tools, and I focus on creating performant and accessible components
-- 📫 I am experienced in FastAPI, Flask, and Spring Boot for backend development, and lately I've been getting into Golang
+- 💬 I enjoy using Python and Go for lightweight, scalable backend systems
+- 📫 At Canonical, I work on Metal-As-A-Service (MAAS), a tool for provisioning bare-metal servers
 
-The first piece of JavaScript code I ever typed was in 2020 in the midst of COVID-19, when my university shut down for an indefinite period. Since then, I've never looked back. Over the years, I've seen how React has evolved; from class-based components to functions, and how TypeScript provided an essential (and nowadays, much-needed) type layer for working on complex systems.
+Get in touch me with at [nehjoshi5@gmail.com](mailto:nehjoshi5@gmail.com)
 
 As a software engineer working on Canonical's MAAS (Metal-as-a-service), I am exposed to a wide variety of systems-level and infrastructure-level concepts such as provisioning workflows, PXE booting, DHCP/TFTP and bare-metal networking.
 
